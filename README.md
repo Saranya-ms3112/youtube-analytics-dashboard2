@@ -33,7 +33,7 @@ The objective of this project is to transform raw YouTube data into meaningful i
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+https://github.com/Saranya-ms3112/youtube-analytics-dashboard2/blob/e676a7b0865c55c1a0fc5b64cebc996c69076166/dashboard.png
 
 ## Project Structure
 
